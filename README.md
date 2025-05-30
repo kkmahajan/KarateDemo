@@ -12,7 +12,9 @@ This repository demonstrates the use of the **Karate DSL** for automating API te
 
 ## 📁 Project Structure
 
-karate-api-testing/
+## 📁 Project Structure
+
+```
 karate-api-testing/
 ├── src/
 │   └── test/
@@ -26,6 +28,8 @@ karate-api-testing/
 ├── karate-config.js
 ├── pom.xml
 └── README.md
+```
+
 
 
 
