@@ -13,20 +13,20 @@ This repository demonstrates the use of the **Karate DSL** for automating API te
 ## 📁 Project Structure
 
 karate-api-testing/
-│
+karate-api-testing/
 ├── src/
-│ └── test/
-│ └── java/
-│ └── examples/
-│ ├── features/
-│ │ ├── sample.feature
-│ │ └── user.feature
-│ └── runners/
-│ └── TestRunner.java
-│
+│   └── test/
+│       └── java/
+│           └── examples/
+│               ├── features/
+│               │   ├── sample.feature
+│               │   └── user.feature
+│               └── runners/
+│                   └── TestRunner.java
 ├── karate-config.js
 ├── pom.xml
 └── README.md
+
 
 
 ---
