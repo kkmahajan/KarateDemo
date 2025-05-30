@@ -12,8 +12,6 @@ This repository demonstrates the use of the **Karate DSL** for automating API te
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```
 karate-api-testing/
 ├── src/
